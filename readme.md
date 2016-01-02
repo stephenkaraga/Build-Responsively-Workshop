@@ -1,3 +1,5 @@
+Steve's completion of an exercise for building responsive layouts by Ben Callahan
+
 # Build Responsively Workshop
 ## [Ben Callahan](http://twitter.com/bencallahan), [Sparkbox](http://seesparkbox.com)
 
